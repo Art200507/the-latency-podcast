@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Latency Report</title>
+    <link>https://Art200507.github.io/the-latency-podcast</link>
+    <description>The Latency Report is a daily AI-generated podcast covering the latest in artificial intelligence, software engineering, data science, and tech startups. Every episode is researched, written, and produced autonomously — delivering sharp, concise insights on what's moving in the world of technology. No fluff, just signal.</description>
+    <language>en-us</language>
+    <atom:link href="https://Art200507.github.io/the-latency-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Atharva Badgujar</itunes:author>
+    <itunes:owner>
+      <itunes:name>Atharva Badgujar</itunes:name>
+      <itunes:email>atharvabadgujar58@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+  </channel>
+</rss>
