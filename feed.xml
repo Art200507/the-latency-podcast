@@ -15,5 +15,14 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-  </channel>
+    <item>
+      <title>Edge AI Security</title>
+      <description><![CDATA[The increasing use of Edge AI devices in IoT networks has introduced new security risks. In this episode, we explore the rise of adversarial machine learning attacks on these devices and discuss mitigation strategies for 2026.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_2.mp3" length="43696637" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-2-1781792462</guid>
+      <pubDate>Thu, 18 Jun 2026 14:21:02 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+</channel>
 </rss>
