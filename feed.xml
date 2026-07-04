@@ -21,7 +21,17 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-      <item>
+        <item>
+      <title>Homomorphic Encryption</title>
+      <description><![CDATA[In this episode, we delve into the potential of homomorphic encryption in secure multi-party computation for 2025 fintech applications. Listeners will learn how this cutting-edge technology enables secure data sharing and collaboration without compromising sensitive information. Our experts will discuss the current state of homomorphic encryption, its applications in fintech, and the benefits it can bring to the industry, including enhanced security, improved compliance, and increased efficiency. Tune in to discover the possibilities and challenges of implementing homomorphic encryption in real-world fintech scenarios and what to expect from this technology in the near future.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_7.mp3" length="38885571" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-7-1783170582</guid>
+      <pubDate>Sat, 04 Jul 2026 13:09:42 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>AI Transparency in Healthcare</title>
       <description><![CDATA[In this episode, we delve into the role of multimodal transformers in enhancing explainability and transparency of AI-driven decision making systems in 2025 healthcare applications.]]></description>
       <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_3.mp3" length="48182734" type="audio/mpeg"/>
