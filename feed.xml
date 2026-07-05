@@ -21,7 +21,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-        <item>
+          <item>
+      <title>July 06, 2026 — Investigating the Intersection of Causal Machine L</title>
+      <itunes:author>Jade Kelman</itunes:author>
+      <description><![CDATA[In this podcast, Jade and Kristi will talk about Investigating the Intersection of Causal Machine Learning and Graph Neural Networks for Predicting Real-World Outcomes in 2026 Climate Modeling Applications.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_11.mp3" length="40545332" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-11-1783277722</guid>
+      <pubDate>Sun, 05 Jul 2026 18:55:22 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>Homomorphic Encryption</title>
       <description><![CDATA[In this episode, we delve into the potential of homomorphic encryption in secure multi-party computation for 2025 fintech applications. Listeners will learn how this cutting-edge technology enables secure data sharing and collaboration without compromising sensitive information. Our experts will discuss the current state of homomorphic encryption, its applications in fintech, and the benefits it can bring to the industry, including enhanced security, improved compliance, and increased efficiency. Tune in to discover the possibilities and challenges of implementing homomorphic encryption in real-world fintech scenarios and what to expect from this technology in the near future.]]></description>
       <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_7.mp3" length="38885571" type="audio/mpeg"/>
