@@ -21,7 +21,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-          <item>
+            <item>
+      <title>July 11, 2026 — Unlocking Efficient Model Serving with NVIDIA Tens</title>
+      <itunes:author>Jade Kelman</itunes:author>
+      <description><![CDATA[In this podcast, Jade and Kristi will talk about Unlocking Efficient Model Serving with NVIDIA TensorRT and TensorFlow Lite in 2026 Edge AI Deployments for Real-Time Computer Vision Applications.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_17.mp3" length="19393497" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-17-1783782614</guid>
+      <pubDate>Sat, 11 Jul 2026 15:10:14 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>July 06, 2026 — Investigating the Intersection of Causal Machine L</title>
       <itunes:author>Jade Kelman</itunes:author>
       <description><![CDATA[In this podcast, Jade and Kristi will talk about Investigating the Intersection of Causal Machine Learning and Graph Neural Networks for Predicting Real-World Outcomes in 2026 Climate Modeling Applications.]]></description>
