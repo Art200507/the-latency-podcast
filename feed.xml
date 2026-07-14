@@ -21,7 +21,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-            <item>
+              <item>
+      <title>July 14, 2026 — The Role of LLaMA in Revolutionizing Low-Code Deve</title>
+      <itunes:author>Jade Kelman</itunes:author>
+      <description><![CDATA[In this podcast, Jade and Kristi will talk about The Role of LLaMA in Revolutionizing Low-Code Development: Exploring the Potential of Large Language Models for Automated Code Generation and Review in 2026 Software Development Lifecycles.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_20.mp3" length="33840466" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-20-1784031948</guid>
+      <pubDate>Tue, 14 Jul 2026 12:25:48 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>July 11, 2026 — Unlocking Efficient Model Serving with NVIDIA Tens</title>
       <itunes:author>Jade Kelman</itunes:author>
       <description><![CDATA[In this podcast, Jade and Kristi will talk about Unlocking Efficient Model Serving with NVIDIA TensorRT and TensorFlow Lite in 2026 Edge AI Deployments for Real-Time Computer Vision Applications.]]></description>
