@@ -21,7 +21,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-              <item>
+                <item>
+      <title>July 15, 2026 — Exploring the Applications and Challenges of Using</title>
+      <itunes:author>Jade Kelman</itunes:author>
+      <description><![CDATA[In this podcast, Jade and Kristi will talk about Exploring the Applications and Challenges of Using Graph Neural Networks for Anomaly Detection in 2025 Time-Series Data from Industrial IoT Sensors.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_21.mp3" length="42394832" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-21-1784100169</guid>
+      <pubDate>Wed, 15 Jul 2026 07:22:49 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>July 14, 2026 — The Role of LLaMA in Revolutionizing Low-Code Deve</title>
       <itunes:author>Jade Kelman</itunes:author>
       <description><![CDATA[In this podcast, Jade and Kristi will talk about The Role of LLaMA in Revolutionizing Low-Code Development: Exploring the Potential of Large Language Models for Automated Code Generation and Review in 2026 Software Development Lifecycles.]]></description>
