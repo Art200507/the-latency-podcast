@@ -21,7 +21,18 @@
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology"/>
-                <item>
+                  <item>
+      <title>July 21, 2026 — Optimizing Cloud Costs with AI-Driven Resource All</title>
+      <itunes:author>Jade Kelman</itunes:author>
+      <description><![CDATA[In this podcast, Jade and Kristi will talk about Optimizing Cloud Costs with AI-Driven Resource Allocation and Predictive Scaling in 2026 Serverless Architectures for Real-Time Data Processing Applications.]]></description>
+      <enclosure url="https://pub-df40ee117c6c473380a18981ecb0f1e7.r2.dev/podcast_24.mp3" length="46727039" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode-24-1784615723</guid>
+      <pubDate>Tue, 21 Jul 2026 06:35:23 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  <item>
       <title>July 15, 2026 — Exploring the Applications and Challenges of Using</title>
       <itunes:author>Jade Kelman</itunes:author>
       <description><![CDATA[In this podcast, Jade and Kristi will talk about Exploring the Applications and Challenges of Using Graph Neural Networks for Anomaly Detection in 2025 Time-Series Data from Industrial IoT Sensors.]]></description>
